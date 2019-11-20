@@ -1,5 +1,5 @@
-# XCode-Templates
-XCode Template files customized with Programmatic UIKit approach
+# Xcode-Templates
+Xcode Template files customized with Programmatic UIKit approach
 
 Up to date with XCode 11 and the SceneDelegate.swift file.
 
