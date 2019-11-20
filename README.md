@@ -6,11 +6,11 @@ Up to date with XCode 11 and the SceneDelegate.swift file.
 ## How to install ?
 
 Just download the template complete template folder.
-Go to '~/Library/Developer/Xcode/Templates/'
+Go to '\~/Library/Developer/Xcode/Templates/'
 Create a new folder call it whatever you like for example: "My Templates"
 Unzip the downloaded Single View App.xctemplate into the created folder.
 Your folder structure should be as follows
- |-'~'
+ |-\~
  |	-Library
  	|	-Developer
  		|	-Xcode
