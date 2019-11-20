@@ -1,6 +1,6 @@
 # Xcode-Templates
 <p align="center">
-    <img src="https://img.shields.io/badge/iOS-13.0+-blue.svg" />
+    <img src="https://img.shields.io/badge/iOS-13.0+-red.svg" />
     <img src="https://img.shields.io/badge/Swift-5.0-brightgreen.svg" />
     <img src="https://img.shields.io/badge/Xcode-11.0+-blue.svg" />
 </p>
