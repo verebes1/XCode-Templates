@@ -10,13 +10,13 @@ Go to ~/Library/Developer/Xcode/Templates/
 Create a new folder call it whatever you like for example: "My Templates"
 Unzip the downloaded Single View App.xctemplate into the created folder.
 Your folder structure should be as follows
- -~
- 	-Library
- 		-Developer
- 			-Xcode
- 				-Templates
- 					-YourTemplateFolderName
- 						-Single View App.xctemplate
+ |-~
+ |	-Library
+ 	|	-Developer
+ 		|	-Xcode
+ 			|	-Templates
+ 				|	-YourTemplateFolderName
+ 					|	-Single View App.xctemplate
 
 ## How to use ?
 
