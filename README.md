@@ -27,7 +27,7 @@ Your folder structure should be as follows:<br>
 
 ## How to use ?
 
-See the demo below. Once you install it it will be available at the bottom of your Xcode app templates with your chosen folder name.
+See the demo below. Once you install it it will be available at the bottom of your Xcode app templates with your chosen folder name. Just select your custom template. In Programmatic-UIKit option you are able to set your default ViewController's name and you can also embed it in a NavigationController. In Storyboard and SwiftUI those options are disabled. 
 
 ## Customization:
 
