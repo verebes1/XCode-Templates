@@ -12,7 +12,7 @@ If you are tired cleaning your project and removing the Storyboard everytime you
 
 ## How to install ?
 
-Just download the template complete template folder.
+Just download the complete template folder.
 Go to '\~/Library/Developer/Xcode/Templates/'
 Create a new folder call it whatever you like for example: "My Templates"
 Unzip the downloaded Single View App.xctemplate into the created folder.
